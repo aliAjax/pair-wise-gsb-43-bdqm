@@ -1,0 +1,11 @@
+{
+  "projectId": "pair-wise-gsb-43",
+  "projectName": "pair-wise-gsb-43",
+  "category": "地狱 Python 项目",
+  "businessDomain": "公共采购",
+  "projectForm": "完整项目",
+  "codeScope": "backend, frontend",
+  "languages": ["Python", "HTML", "CSS", "JavaScript"],
+  "summary": "公共采购密封投标、开标校验、规则评分、投诉重评和授标快照系统。",
+  "containerized": false
+}
